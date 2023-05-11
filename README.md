@@ -1,3 +1,5 @@
+# Conway's Game of Life in WebGPU
+
 The provided code is an HTML document that demonstrates a simulation of Conway's Game of Life using WebGPU. It renders the simulation on a canvas element and updates the state of the cells at regular intervals.
 
 The code begins by defining several constants, including the grid size, update interval, and workgroup size. These constants are used throughout the code to configure various aspects of the simulation.
