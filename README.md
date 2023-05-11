@@ -2,6 +2,8 @@
 
 The provided code is an HTML document that demonstrates a simulation of Conway's Game of Life using WebGPU. It renders the simulation on a canvas element and updates the state of the cells at regular intervals.
 
+I wanted to learn how to use WebGPU, so I followed the guide at https://codelabs.developers.google.com/your-first-webgpu-app. 
+
 The code begins by defining several constants, including the grid size, update interval, and workgroup size. These constants are used throughout the code to configure various aspects of the simulation.
 
 After that, the code retrieves the canvas element using the `querySelector` method and checks if WebGPU is supported in the current browser. If WebGPU is not supported, an error is thrown. Otherwise, the code proceeds to request a GPU adapter and device for rendering with WebGPU.
