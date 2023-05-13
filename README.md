@@ -1,6 +1,6 @@
 # Conway's Game of Life in WebGPU
 
-The provided code is an HTML document that demonstrates a simulation of Conway's Game of Life using WebGPU. It renders the simulation on a canvas element and updates the state of the cells at regular intervals.
+The provided code is an HTML document that demonstrates a simulation of Conway's Game of Life using WebGPU. It renders the simulation on a canvas element and updates the state of the cells at regular intervals. Check it out at https://qayyumayaan.github.io/webgpu/. 
 
 I wanted to learn how to use WebGPU, so I followed the guide at https://codelabs.developers.google.com/your-first-webgpu-app. 
 
